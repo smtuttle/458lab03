@@ -2,3 +2,6 @@
 Mooo oink baa baa baa
 
 I am making these changes on the GitHub version of this repository.
+
+I am making this change on my computer's copy of the 
+repository.
